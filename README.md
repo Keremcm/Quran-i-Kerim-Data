@@ -16,7 +16,7 @@ Features
 
 **Getting Started**
 
-Clone this repository and use the quran_data_updated.json file for easy access to Quranic data.
+Clone this repository and use the quran_data.json file for easy access to Quranic data.
 Usage
 
 Access the data programmatically through the quran_data_updated.json file, with verses organized by surah.
@@ -43,7 +43,7 @@ Bu proje, her ayetin Arapça metni, Türk çevirisi, çeviri ve TAFSIR (yorum) d
 Bu depoyu klonlayın ve Kur'an verilerine kolay erişim için quran_data_updated.json dosyasını kullanın.
 Kullanım
 
-Verilere, Suran tarafından düzenlenen ayetlerle Kur'an_data_updated.json dosyası aracılığıyla programlı olarak erişin.
+Verilere, Suran tarafından düzenlenen ayetlerle quran_data.json dosyası aracılığıyla programlı olarak erişin.
 
 **Lisans**
 
